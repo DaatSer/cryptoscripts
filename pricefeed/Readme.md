@@ -1,4 +1,4 @@
-## Cryptocurrency Price Chart
+## JS Cryptocurrency Price Charts
 
 This is a JavaScript chart showing the price of different cryptocurrencies over a selected span of time. It utilizes Highcharts for the charting and Poloniex for the price data.
 
