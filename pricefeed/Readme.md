@@ -9,4 +9,4 @@ Data provider: https://poloniex.com
 Chart library: https://www.highcharts.com
 
 ## License
-MIT as stated in root of this repo. Free to use! Enjoy!
+This script is a fork of TrustedScripts chart. So their MIT license will apply.
